@@ -1,0 +1,16 @@
+variable "bastion_internal_ip_address" {}
+variable "cluster_db_machine_type" {}
+variable "cluster_db_node_count" {}
+variable "cluster_db_locations" {}
+variable "cluster_ipv4_cidr" {}
+variable "cluster_machine_type" {}
+variable "cluster_name" {}
+variable "cluster_node_count" {}
+variable "general_machine_type" {}
+variable "general_node_count" {}
+variable "master_ipv4_cidr" {}
+variable "network" {}
+variable "region" {}
+variable "services_ipv4_cidr" {}
+variable "subnetwork" {}
+variable "zone" {}
